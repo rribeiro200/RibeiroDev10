@@ -1,6 +1,6 @@
 ### Hi there, I'm Rafael Ribeiro ✌
 
-- 💼 Full-stack web developer
+- 💼 Full-Stack Web Developer, focusing on Back-End in PHP and JavaScript languages
 - ✍️ Studying the Laravel framework
 - 📧 Contact me on email: rafaelribdev@gmail.com
 
