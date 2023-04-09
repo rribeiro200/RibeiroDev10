@@ -1,8 +1,8 @@
-### Olá! Eu sou o Rafael Ribeiro ✌
+### Hi there, I'm Rafael Ribeiro ✌
 
-- 💼 Hoje sou um desenvolvedor web | PHP - Laravel |
-- ✍️ Estudando o framework Laravel
-- 📧 Contate-me no email: rafaelribdev@gmail.com
+- 💼 Full-stack web developer
+- ✍️ Studying the Laravel framework
+- 📧 Contact me on email: rafaelribdev@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
