@@ -1,7 +1,6 @@
 ### Hi there, I'm Rafael Ribeiro ✌
 
 - 💼 Full-Stack Web Developer, focusing on Back-End in PHP and JavaScript.
-- ✍️ Studying Etichal Hacking.
 - 📧 Contact me on email: rafaelribdev@gmail.com
 
 <div style="display: inline_block"><br>
