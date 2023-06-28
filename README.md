@@ -1,6 +1,6 @@
 ### Hi there, I'm Rafael Ribeiro ✌
 
-- 💼 Full-Stack Web Developer, focusing on Back-End in PHP.
+- 💼 Full-Stack Web Developer, focusing on Back-End.
 - 📧 Contact me on email: rafaelribdev@gmail.com
 
 <div style="display: inline_block"><br>
