@@ -1,6 +1,6 @@
 ### Hi there, I'm Rafael Ribeiro ✌
 
-- 💼 Full-Stack Web Developer.
+- 💼 Software Developer.
 - 📧 Contact me on email: rafaelribdev@gmail.com
 
 <div style="display: inline_block"><br>
